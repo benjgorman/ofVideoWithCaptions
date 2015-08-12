@@ -1,0 +1,14 @@
+<positions>
+    <element name="Video">
+        <x>0.000000000</x>
+        <y>52.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+    <element name="caption">
+        <x>0.000000000</x>
+        <y>76.000000000</y>
+        <width>1024.000000000</width>
+        <height>0.000000000</height>
+    </element>
+</positions>
